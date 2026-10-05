@@ -263,7 +263,7 @@ The script writes a refreshed `outputs/key_indicators.csv`.
 
 ---
 
-## Skills demonstrated
+## Skills
 
 **Research & MEL**
 - Indicator definition and denominator discipline
@@ -293,24 +293,13 @@ The script writes a refreshed `outputs/key_indicators.csv`.
 - Treating missingness as an analytical issue rather than silently ignoring it
 
 ---
-
-## Portfolio positioning
-
-This project is intentionally more than a charting exercise.
-
-It demonstrates how I approach evidence work in practice:
-
-> **Start with the programme question. Build a defensible analytical pathway. Make denominators explicit. Test the story against the data. Communicate what matters. And be clear about what the evidence cannot prove.**
-
-That is the difference between producing numbers and producing **decision-useful evidence**.
-
 ---
 
-## Suggested GitHub description
+## Description
 
 **Python-based analysis of youth engagement, health-information trust and digital referral pathways through the Vijana Tubonge TikTok platform in Kenya.**
 
-### Suggested repository topics
+### Repository topics
 
 `python` `pandas` `data-analysis` `digital-health` `youth-health` `MEL` `M&E` `research` `survey-analysis` `data-visualization` `Kenya` `public-health`
 
