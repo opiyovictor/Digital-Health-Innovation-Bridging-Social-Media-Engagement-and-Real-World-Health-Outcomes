@@ -1,0 +1,19 @@
+Domain,Indicator,Numerator,Denominator,Percent,Population / definition
+Reach,Awareness of Vijana Tubonge,318,379,83.9,All survey respondents
+Reach,Followership among those aware,270,318,84.9,Respondents who had heard of Vijana Tubonge
+Engagement,Watch 3–5 times per week,103,270,38.1,Followers; missing responses retained in cohort denominator
+Engagement,Watch daily,52,270,19.3,Followers; missing responses retained in cohort denominator
+Content,Sexual & reproductive health content watched,178,270,65.9,Followers; multiple responses possible
+Content,HIV testing / PrEP / PEP content watched,175,270,64.8,Followers; multiple responses possible
+Content,Mental health content watched,152,270,56.3,Followers; multiple responses possible
+Trust & safety,Comfortable / very comfortable asking questions,248,270,91.9,Followers
+Trust & safety,Trust health information,260,270,96.3,Followers
+Trust & safety,Feel safe and respected,258,270,95.6,Followers
+Perceived influence,Report increased health knowledge,262,270,97.0,Followers; Agree or Strongly Agree
+Perceived influence,Encouraged to seek services,258,270,95.6,Followers
+Perceived influence,More confident making health decisions,258,270,95.6,Followers
+Awareness,Aware of youth-friendly services before following,155,270,57.4,Followers
+Awareness,Report improved understanding of where/how to access services,254,270,94.1,Followers
+Referral,Referred to a health/support service,110,270,40.7,Followers
+Referral,Accessed referred service,106,110,96.4,Followers who reported a referral
+Referral,Found accessed service helpful / very helpful,106,106,100.0,Followers who accessed a referred service
