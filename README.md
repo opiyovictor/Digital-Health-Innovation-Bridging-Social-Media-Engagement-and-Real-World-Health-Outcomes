@@ -55,44 +55,44 @@ The repository is designed as a portfolio piece demonstrating **research thinkin
 
 ### Analytical objectives
 
-1. **Reach & engagement** — understand awareness, followership and viewing frequency.
-2. **Content exposure** — identify the health topics and formats attracting attention.
-3. **Trust & safety** — assess perceived credibility, comfort and safety.
-4. **Perceived influence** — examine self-reported knowledge, confidence and service-seeking.
-5. **Referral pathway** — quantify referral and reported service access.
-6. **Access barriers** — identify practical barriers affecting service utilisation.
+1. **Reach & engagement** - understand awareness, followership and viewing frequency.
+2. **Content exposure** - identify the health topics and formats attracting attention.
+3. **Trust & safety** - assess perceived credibility, comfort and safety.
+4. **Perceived influence** - examine self-reported knowledge, confidence and service-seeking.
+5. **Referral pathway** - quantify referral and reported service access.
+6. **Access barriers** - identify practical barriers affecting service utilisation.
 
 ---
 
 ## The analysis journey
 
-### 01 — Reach
+### 01 - Reach
 
 **379 respondents → 318 aware → 270 followers**
 
 Awareness was high in the survey sample, while followership was also strong among those who knew the platform.
 
-### 02 — Engagement
+### 02 - Engagement
 
 Among followers:
 
-- **38.1%** watched 3–5 times per week.
+- **38.1%** watched 3-5 times per week.
 - **19.3%** watched daily.
 - The most prominent content interests were **SRHR (65.9%)**, **HIV testing/PrEP/PEP (64.8%)**, and **mental health (56.3%)**.
 
-### 03 — Trust and safety
+### 03 - Trust and safety
 
 - **96.3%** reported trusting the health information.
 - **95.6%** felt safe and respected.
 - **91.9%** were comfortable or very comfortable asking health questions.
 
-### 04 — Perceived learning and behaviour
+### 04 - Perceived learning and behaviour
 
 - **97.0%** agreed or strongly agreed that the platform increased their health knowledge.
 - **95.6%** said the content encouraged them to seek services when needed.
 - **95.6%** reported greater confidence making health decisions.
 
-### 05 — Referral to services
+### 05 - Referral to services
 
 The most actionable operational result is the referral funnel:
 
